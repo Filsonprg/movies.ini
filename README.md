@@ -2,7 +2,7 @@
 
 ## Název
 
-movies.JSON
+movies.ini
 
 ## Specifikace
 
